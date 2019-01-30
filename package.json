@@ -1,0 +1,14 @@
+{
+  "name": "react-data-table",
+  "version": "1.0.0",
+  "description": "Data table for react - Table on steroids",
+  "main": "index.js",
+  "repository": "https://github.com/rajatvijay/react-data-table",
+  "author": "RAJAT VIJAY",
+  "license": "MIT",
+  "dependencies": {
+    "antd": "^3.13.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
